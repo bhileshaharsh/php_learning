@@ -1,1 +1,10 @@
-this is testing for github
+Steps to commit:
+
+1. Add files using following command.
+    git add .
+
+2. Add commit message using following command.
+    git commit -m "your message"
+
+3. Push all changes using following command.
+    git push origin main    //where main is branch name
